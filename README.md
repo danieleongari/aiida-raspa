@@ -1,6 +1,6 @@
 [![PyPI version](https://badge.fury.io/py/aiida-raspa.svg)](https://badge.fury.io/py/aiida-raspa)
 
-# aiida-raspa
+# aiida-raspa (compatible with aiida-core v0.12.3, used for [CURATED-COFs](https://www.doi.org/10.1021/acscentsci.9b00619))
 
 [AiiDA](https://www.aiida.net) plugin for [RASPA2](https://github.com/numat/RASPA2).
 
